@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently consulting companies around strategic and architectural approaches to putting ML into practice.
+- I'm currently consulting companies around strategic, technical, and cultural challenges to putting ML into practice.
 - Previously worked at GetYourGuide as Staff Data Scientist, and at Zalando as Delivery Lead and Principal Research Engineer.
 - You might have used [jblas](http://jblas.org), my Linear Algebra library for Java.
 - I spent a lot of time in Machine Learning research at University of Bonn, Fraunhofer, and TU Berlin. [Here are my publications](http://mikiobraun.de/publications.html).
