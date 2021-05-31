@@ -7,4 +7,4 @@
 - I occasionally [blog](http://margint.blog).
 - I occasionally give [talks at conferences](https://margint.blog/videos-and-talks/).
 - Follow me on [twitter](http://twitter.com/mikiobraun) or connect with me on [Linkedin](https://www.linkedin.com/in/mikiobraun/).
-- I also started a [newsletter](https://www.getrevue.co/profile/mikiobraun)
+- I also started a [newsletter](https://www.getrevue.co/profile/mikiobraun).
