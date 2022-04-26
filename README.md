@@ -6,5 +6,5 @@
 - I spent a lot of time in Machine Learning research at University of Bonn, Fraunhofer, and TU Berlin. [Here are my publications](http://mikiobraun.de/publications.html).
 - I occasionally [blog](http://margint.blog).
 - I occasionally give [talks at conferences](https://margint.blog/videos-and-talks/).
-- Follow me on [twitter](http://twitter.com/mikiobraun) or connect with me on [Linkedin](https://www.linkedin.com/in/mikiobraun/).
+- Follow me on [twitter](http://twitter.com/mikiobraun), or [mastodon](http://mastodon.cloud/mikiobraun) or connect with me on [Linkedin](https://www.linkedin.com/in/mikiobraun/).
 - I also started a [newsletter](https://www.getrevue.co/profile/mikiobraun).
