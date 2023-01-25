@@ -7,6 +7,6 @@
 - I occasionally [blog](http://margint.blog). I got slashdotted twice: [How Python became the language of choice for data science](https://mikiobraun.wordpress.com/2017/09/03/how-python-became-the-language-of-choice-for-data-science/) and [Everyone is still terrible at creating software at scale](https://mikiobraun.wordpress.com/2021/04/05/creating-software-at-scale/).
 - I occasionally give [talks at conferences](http://margint.blog/videos-and-talks/).
 - Follow me on [mastodon](http://hachyderm.io/@mikiobraun) or connect with me on [Linkedin](https://www.linkedin.com/in/mikiobraun/). You can also find my on [twitter](http://twitter.com/mikiobraun) if you're up for that.
-- I also started a [newsletter](https://www.getrevue.co/profile/mikiobraun).
+- I also started a [newsletter](https://mlinpractice.substack.com).
 
 Now with math $\sqrt{1 + x}$?
