@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm currently consulting companies around strategic, technical, and cultural challenges to putting ML into practice. If you're interested in working with me, best way is to connect on Linkedin and ping me there.
+- I'm currently back at Zalando, working in Fulfillment Core on order fulfillment, delivery time prediction, stock management and related topics.
+- Previously consulted companies around strategic, technical, and cultural challenges to putting ML into practice. I still have limited capacity, if you're interested in working with me, best way is to connect on Linkedin and ping me there.
 - Previously worked at GetYourGuide as Staff Data Scientist, and at Zalando as Delivery Lead and Principal Research Engineer.
 - You might have used [jblas](http://jblas.org), my Linear Algebra library for Java.
 - I spent a lot of time in Machine Learning research at University of Bonn, Fraunhofer, and TU Berlin. [Here are my publications](http://mikiobraun.de/publications.html).
@@ -8,5 +9,4 @@
 - I occasionally give [talks at conferences](http://margint.blog/videos-and-talks/).
 - Follow me on [mastodon](http://hachyderm.io/@mikiobraun) or connect with me on [Linkedin](https://www.linkedin.com/in/mikiobraun/). You can also find my on [twitter](http://twitter.com/mikiobraun) if you're up for that.
 - I also started a [newsletter](https://mlinpractice.substack.com).
-
-Now with math $\sqrt{1 + x}$?
+- I have a sideproject that extracts trending articles from mastodon feeds called [fedistats](https://fedistats.cc). Sign up for a free daily AI newsletter!
