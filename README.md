@@ -11,6 +11,7 @@
 - 🗞️ [fedistats](https://fedistats.cc) Extract trending news from mastodon. (archived)
 - 🪷 [Talk With Ren](https://talkwithren.com) AI based language learner
 - 🪩 [Björn The Bouncer](https://bjornthebouncer.com) AI driven text adventure
+- ⭕️ [Closed Loops](https://closedloops.app) What did I miss?
 
 ## Writings & Talks
 
