@@ -7,19 +7,21 @@
 
 ## Projects
 
-- [jblas](https://jblas.org) Linear Algebra for Java.
-- [fedistats](https://fedistats.cc) Extract trending news from mastodon. (archived)
-- [Talk With Ren](https://talkwithren.com) AI based language learner
-- [Björn The Bouncer](https://bjornthebouncer.com) AI driven text adventure
+- 🧮 [jblas](https://jblas.org) Linear Algebra for Java.
+- 🗞️ [fedistats](https://fedistats.cc) Extract trending news from mastodon. (archived)
+- 🪷 [Talk With Ren](https://talkwithren.com) AI based language learner
+- 🪩 [Björn The Bouncer](https://bjornthebouncer.com) AI driven text adventure
 
 ## Writings & Talks
 
-- [blog.mikiobraun.de](https://blog.mikiobraun.de)
-- [margint.blog](https://margint.blog). I got slashdotted twice: [How Python became the language of choice for data science](https://mikiobraun.wordpress.com/2017/09/03/how-python-became-the-language-of-choice-for-data-science/) and [Everyone is still terrible at creating software at scale](https://mikiobraun.wordpress.com/2021/04/05/creating-software-at-scale/).
-- [Postheuristic.AI](https://postheuristic.ai) 
-- [ML In Practice Substack](https://mlinpractice.substack.com).
+- [blog.mikiobraun.de](https://blog.mikiobraun.de) My longest running blog, since 2005
+- [margint.blog](https://margint.blog) Newer blog. I got slashdotted twice: [How Python became the language of choice for data science](https://mikiobraun.wordpress.com/2017/09/03/how-python-became-the-language-of-choice-for-data-science/) and [Everyone is still terrible at creating software at scale](https://mikiobraun.wordpress.com/2021/04/05/creating-software-at-scale/).
+- [Postheuristic.AI](https://postheuristic.ai) My "label" for projects (under construction)
+- [ML In Practice Substack](https://mlinpractice.substack.com) ML, AI, etc.
+- [Talks](http://margint.blog/videos-and-talks/) Collection of Talks
 
-- [Talks](http://margint.blog/videos-and-talks/)
+# Social Media
 
-- # Social Media
-- Follow me on [mastodon](http://hachyderm.io/@mikiobraun) or connect with me on [Linkedin](https://www.linkedin.com/in/mikiobraun/). You can also find my on [twitter](http://twitter.com/mikiobraun) if you're up for that.
+- [mastodon](https://hachyderm.io/@mikiobraun)
+- [Linkedin](https://www.linkedin.com/in/mikiobraun/)
+- [Blueksy](https://bsky.app/profile/mikiobraun.com)
