@@ -1,12 +1,25 @@
-### Hi there 👋
+# About me
 
 - I'm currently back at Zalando, working in Fulfillment Core on order fulfillment, delivery time prediction, stock management and related topics.
 - Previously consulted companies around strategic, technical, and cultural challenges to putting ML into practice. I still have limited capacity, if you're interested in working with me, best way is to connect on Linkedin and ping me there.
 - Previously worked at GetYourGuide as Staff Data Scientist, and at Zalando as Delivery Lead and Principal Research Engineer.
-- You might have used [jblas](http://jblas.org), my Linear Algebra library for Java.
 - I spent a lot of time in Machine Learning research at University of Bonn, Fraunhofer, and TU Berlin. [Here are my publications](http://mikiobraun.de/publications.html).
-- I occasionally [blog](http://margint.blog). I got slashdotted twice: [How Python became the language of choice for data science](https://mikiobraun.wordpress.com/2017/09/03/how-python-became-the-language-of-choice-for-data-science/) and [Everyone is still terrible at creating software at scale](https://mikiobraun.wordpress.com/2021/04/05/creating-software-at-scale/).
-- I occasionally give [talks at conferences](http://margint.blog/videos-and-talks/).
+
+## Projects
+
+- [jblas](https://jblas.org) Linear Algebra for Java.
+- [fedistats](https://fedistats.cc) Extract trending news from mastodon. (archived)
+- [Talk With Ren](https://talkwithren.com) AI based language learner
+- [Björn The Bouncer](https://bjornthebouncer.com) AI driven text adventure
+
+## Writings & Talks
+
+- [blog.mikiobraun.de](https://blog.mikiobraun.de)
+- [margint.blog](https://margint.blog). I got slashdotted twice: [How Python became the language of choice for data science](https://mikiobraun.wordpress.com/2017/09/03/how-python-became-the-language-of-choice-for-data-science/) and [Everyone is still terrible at creating software at scale](https://mikiobraun.wordpress.com/2021/04/05/creating-software-at-scale/).
+- [Postheuristic.AI](https://postheuristic.ai) 
+- [ML In Practice Substack](https://mlinpractice.substack.com).
+
+- [Talks](http://margint.blog/videos-and-talks/)
+
+- # Social Media
 - Follow me on [mastodon](http://hachyderm.io/@mikiobraun) or connect with me on [Linkedin](https://www.linkedin.com/in/mikiobraun/). You can also find my on [twitter](http://twitter.com/mikiobraun) if you're up for that.
-- I also started a [newsletter](https://mlinpractice.substack.com).
-- I have a sideproject that extracts trending articles from mastodon feeds called [fedistats](https://fedistats.cc). Sign up for a free daily AI newsletter!
