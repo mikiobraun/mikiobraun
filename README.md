@@ -12,6 +12,7 @@
 - 🪷 [Talk With Ren](https://talkwithren.com) AI based language learner
 - 🪩 [Björn The Bouncer](https://bjornthebouncer.com) AI driven text adventure
 - ⭕️ [Closed Loops](https://closedloops.app) What did I miss?
+- 🤝 [Capysync](https://capysync.dev) Portable Social Identity
 
 ## Writings & Talks
 
