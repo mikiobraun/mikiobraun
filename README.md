@@ -7,12 +7,19 @@
 
 ## Projects
 
+### Inactive
+
 - 🧮 [jblas](https://jblas.org) Linear Algebra for Java.
 - 🗞️ [fedistats](https://fedistats.cc) Extract trending news from mastodon. (archived)
+
+### Active
 - 🪷 [Talk With Ren](https://talkwithren.com) AI based language learner
 - 🪩 [Björn The Bouncer](https://bjornthebouncer.com) AI driven text adventure
+
+### In Development
+
 - ⭕️ [Closed Loops](https://closedloops.app) What did I miss?
-- 🤝 [Capysync](https://capysync.dev) Portable Social Identity
+- 🤝 [Capysync](https://capysync.dev) Portable social identity
 
 ## Writings & Talks
 
