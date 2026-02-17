@@ -19,6 +19,7 @@
 
 ### In Development
 
+- 🎤 [Open Floor Control](https://ofc.dev) Conversational Multi-Agent Collaboration
 - ⭕️ [Closed Loops](https://closedloops.app) What did I miss?
 - 🤝 [Capysync](https://capysync.dev) Portable social identity
 
