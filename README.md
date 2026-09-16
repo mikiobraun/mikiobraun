@@ -17,6 +17,7 @@
 - 🪩 [Björn The Bouncer](https://bjornthebouncer.com) AI driven text adventure
 - 🚏 [dev-router](https://github.com/mikiobraun/dev-router) reverse proxy for your dev server
 - 🛠️ [mcp-inspect](https://github.com/mikiobraun/mcp-inspect) tool for inspecting and interacting with mcp servers
+- 📚 [kbmcp](/mikiobraun/kbmcp) knowledgebase MCP
 
 ### In Development
 
