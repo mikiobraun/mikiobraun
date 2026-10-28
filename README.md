@@ -18,6 +18,7 @@
 - 🚏 [dev-router](https://github.com/mikiobraun/dev-router) reverse proxy for your dev server
 - 🛠️ [mcp-inspect](https://github.com/mikiobraun/mcp-inspect) tool for inspecting and interacting with mcp servers
 - 📚 [kbmcp](https://github.com/mikiobraun/kbmcp) knowledgebase MCP
+- ⚛ [atomicmicro.blog](https://github.com/mikiobraun/amblog) yet another attempt at distributed social network architecture :)
 
 ### In Development
 
